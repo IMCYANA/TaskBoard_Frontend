@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Getting Started with TaskBoard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## First, don't forget to run `npm i` after you `git clone` my project.
+## Then, run `npm start` to start the application.
+![Screenshot 2025-03-11 234916](https://github.com/user-attachments/assets/d8cefa5e-d140-4609-8e12-33cd3a9d8db5)
 
-## Available Scripts
+## Let's Create a Task  
+### After you click on the "Create New Task" button, the program will take you to this page, where you can fill in the information.
+![Screenshot 2025-03-11 235116](https://github.com/user-attachments/assets/aa806d55-c82e-4d46-bc40-595cf3e69fd6)
 
-In the project directory, you can run:
+## After Creating the Task  
+### You can take a look, and you will see the task we just created displayed on the table.
+![Screenshot 2025-03-11 235148](https://github.com/user-attachments/assets/c9787a9f-1a0c-47ab-b6ee-5602ba408490)
 
-### `npm start`
+## Next, Let's Update the Information  
+### You can click on "Edit" to update the information. After that, fill in the details you want to change.
+![Screenshot 2025-03-11 235335](https://github.com/user-attachments/assets/8da1846d-8a9a-448b-bcd3-8d33bc8c534f)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Now, you can see that the information has been successfully updated.
+![Screenshot 2025-03-11 235353](https://github.com/user-attachments/assets/c2651794-34b9-4eb3-b440-9910e77ed421)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Let's Delete the Data  
+### You can click on the "Delete" button and press "OK" to confirm the deletion.
+![Screenshot 2025-03-11 235425](https://github.com/user-attachments/assets/55bc3914-cea6-406c-ba01-1d7033027328)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## And now, the data has been successfully deleted.
+![Screenshot 2025-03-11 235445](https://github.com/user-attachments/assets/0cbb50da-5a0b-4708-afea-4b8e21e09399)
